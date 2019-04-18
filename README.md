@@ -1,5 +1,6 @@
 # calculator-with-stack
-Simple calculator program
+Simple calculator program - Garnet McLaren
+this was made for a data structures course.
 
 Sample Output:
 ./q2 23+
